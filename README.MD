@@ -2,6 +2,8 @@
 
 This is a fork of the origional DOOM source code for linux ported to run on Power PC based machines running Linux.
 
+![Alt text](/snapshot9.png?raw=true "DOOM Running on iBook G3 with Yellow Dog Linux!")
+
 ## Requirements
 
 * You're going to need a Power PC based machine such as an iMac G3 or iBook from late
