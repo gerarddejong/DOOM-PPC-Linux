@@ -6,7 +6,7 @@ This is a fork of the origional DOOM source code for linux ported to run on Powe
 
 ## Requirements
 
-* You're going to need a Power PC based machine such as an iMac G3 or iBook from late
+* You're going to need a Power PC based machine such as an iMac G3 or iBook from 1998 or 2001 respectively. 
 * You'll also need to have installed an older version of Linux such as Yellow Dog.
 
 # Building the project
